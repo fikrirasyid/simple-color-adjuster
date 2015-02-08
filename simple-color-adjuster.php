@@ -1,8 +1,8 @@
 <?php
 /**
- * Simple class to do Sass' lighten() and darken() using PHP
- * Intentionally made for WordPress theming due to scss.inc.php which triggers too much alert on theme-check
- * This library is originally made for Materialist theme: http://fikrirasy.id/portfolio/materialist
+ * Simple class to do Sass' `lighten()` and `darken()` using PHP
+ * Intentionally made for WordPress theming. [SCSS PHP](http://leafo.net/scssphp/) is amazing but it triggers too much alert on theme-check. Hence a need for a simpler one.
+ * This library is originally made for [Materialist theme](http://fikrirasy.id/portfolio/materialist).
  * 
  * @copyright Fikri Rasyid
  * @license http://opensource.org/licenses/gpl-license GPL-3.0
